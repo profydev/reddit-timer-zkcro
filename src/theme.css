@@ -1,0 +1,10 @@
+:root {
+  --color-text: #93918f;
+
+  --font-family-default: 'Montserrat', sans-serif;
+  --font-family-headline: 'Bitter', serif;
+
+  --font-size-default: 16px;
+
+  --line-height-default: 1.69;
+}

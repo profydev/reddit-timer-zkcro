@@ -4,6 +4,9 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import MarketingPage from './MarketingPage/MarketingPage';
 import SearchPage from './SearchPage/SearchPage';
 
+import './theme.css';
+import './App.css';
+
 function App() {
   return (
     <Router>
